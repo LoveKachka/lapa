@@ -1,0 +1,30 @@
+.title__win{
+font-size: 38px;
+font-family: 'Inria Serif', sans-serif;
+color:#00580E;
+margin-top: 32px;
+}
+
+.l{
+font-size: 25px;
+font-family: 'Inria Serif', sans-serif;
+color:#00580E;
+margin-top: 32px;
+}
+
+
+.k > button{
+  padding: 15px 32px;
+   
+    background-color: #00A81B;
+    border: none;
+    color: white;
+  
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    width: 100px;
+
+}

@@ -1,0 +1,21 @@
+.sub-title{
+font-size: 38px;
+font-family: 'Inria Serif', sans-serif;
+color:#00580E;
+margin-top: 32px;
+}
+
+.price-form >  button{
+
+    background-color: #00A81B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    width: 150px;
+
+}
